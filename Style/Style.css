@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+body{
+    background-color: #001233;
+    
+}
+.offcanvas-bg{
+    background-color: #001233;
+}
+.offcanvas-title{
+    color:#a4f9c8;
+    font-weight: bolder;
+    font-family: 'EB Garamond', serif;
+    font-size: 30px;
+}
+.navbar-text{
+    font-family: 'EB Garamond', serif;
+    font-size: 20px;
+}
+.nav-logo{
+    width: 100px;
+}
+.about-me{
+    color:#bfd0e0;
+    font-weight: bolder;
+    font-family: 'EB Garamond', serif;
+}
+.card-margin{
+    margin-bottom: 2rem;
+}
+.btn-card{
+    border-color:#001233 ;
+    color: #001233;
+    border-radius: 15px;
+}
+.btn-card:hover{
+    border-color:#001233 ;
+    background-color: #001233;
+    color: #a4f9c8;
+}
+.card-title{
+    font-family: 'EB Garamond', serif;
+    font-weight: bolder;
+}
+.card-text{
+    font-family: 'EB Garamond', serif;
+}
+.img-card{
+    width: 80%;
+    border-radius: 100px;
+    padding: 5%;
+}
+.navbar{
+
+    border-bottom:#a4f9c8  solid 1px;
+}
