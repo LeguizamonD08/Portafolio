@@ -53,3 +53,13 @@ body{
 
     border-bottom:#a4f9c8  solid 1px;
 }
+.img-about{
+    border-radius: 1000px;
+}
+.text-about-me{
+    color:#bfd0e0;
+    font-family: 'EB Garamond', serif;
+}
+.space-text{
+    padding: 5%;
+}
